@@ -1,6 +1,6 @@
 <?php
 
-define('BASEPATH', 'http://localhost/tokoindonesia_adityapangestu/');
+define('BASEPATH', 'http://localhost/tokoindo_sertifikasitelkompcc/');
 
 define('DBHOST', 'localhost');
 define('DBUSER', 'root');
